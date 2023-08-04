@@ -20,7 +20,7 @@
 
 <h3>📌 Sobre</h3> 
 
-O projeto, flutuar é um desafio de reproduzir um layout utilizando os conceitos básicos de HTML e CSS aprendidos na trilha Explorer da Rocketseat.
+O projeto flutuar é um desafio de reproduzir um layout utilizando os conceitos básicos de HTML e CSS aprendidos na trilha Explorer da Rocketseat.
 
 <h3>📌 Tecnologias</h3> 
 
